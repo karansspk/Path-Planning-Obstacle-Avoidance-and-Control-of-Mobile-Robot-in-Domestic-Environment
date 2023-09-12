@@ -28,7 +28,7 @@ This repository contains MATLAB files and resources related to [Project Name]. T
 
 ![Result Image 1](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Dijkstra_Path.png)
 
-![Result Image 2](images/result_image_2.png)
+![Result Image 2](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Norm%20Image.png)
 
 
 
