@@ -54,9 +54,6 @@ To get started with the project, follow these steps:
 
 3.Open the MATLAB files listed above and run them as needed for your project's objectives.
 
-## Usage
-Provide instructions on how to use the MATLAB files and resources in this repository. Include any prerequisites, configuration steps, and examples of usage.
 
 ## Acknowledgments
-Mention any contributors or organizations that have supported or influenced your project.
 
