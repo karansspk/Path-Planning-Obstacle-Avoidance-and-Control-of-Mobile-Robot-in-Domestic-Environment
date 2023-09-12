@@ -9,8 +9,8 @@ This repository contains MATLAB files and resources related to [Project Name]. T
 ## Table of Contents
 
 - [Project Files](#project-files)
-- [Result Images]([#result-images](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Dijkstra_Path.png))
-- [Project Report]([#project-report](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Mobile%20Robots%20Final%20Report.pdf))
+- [Result Images](#images)
+- [Project Report](#report)
 - [Referenced Research Papers](#referenced-research-papers)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -26,7 +26,7 @@ This repository contains MATLAB files and resources related to [Project Name]. T
 
 ## Result Images
 
-![Result Image 1](images/result_image_1.png)
+![Result Image 1]([#result-images](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Dijkstra_Path.png))
 
 ![Result Image 2](images/result_image_2.png)
 
@@ -34,7 +34,7 @@ Add any relevant images that showcase the results or outcomes of your project he
 
 ## Project Report
 
-For detailed information about the project, including its goals, methodology, and results, please refer to the [Project Report](report/project_report.pdf) provided in the `report` directory.
+For detailed information about the project, including its goals, methodology, and results, please refer to the [Project Report]([#project-report](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Mobile%20Robots%20Final%20Report.pdf)) provided in the `report` directory.
 
 ## Referenced Research Papers
 
