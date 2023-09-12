@@ -30,11 +30,11 @@ This repository contains MATLAB files and resources related to [Project Name]. T
 
 ![Result Image 2](images/result_image_2.png)
 
-Add any relevant images that showcase the results or outcomes of your project here.
+
 
 ## Project Report
 
-For detailed information about the project, including its goals, methodology, and results, please refer to the [Project Report]([#project-report](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Mobile%20Robots%20Final%20Report.pdf)) provided in the `report` directory.
+For detailed information about the project, including its goals, methodology, and results, please refer to the [Project Report](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Mobile%20Robots%20Final%20Report.pdf) provided in the `report` directory.
 
 ## Referenced Research Papers
 
