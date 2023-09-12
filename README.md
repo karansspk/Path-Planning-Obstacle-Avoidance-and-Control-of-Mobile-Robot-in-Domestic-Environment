@@ -47,10 +47,20 @@ In the `research_papers` directory, you can find the research papers that were r
 
 ## Getting Started
 
+
 To get started with the project, follow these steps:
 
 1. Clone the repository:
 
    ```shell
    git clone https://github.com/your-username/your-project.git
+
+1.Install MATLAB and ensure that it's properly configured.
+2.Open the MATLAB files listed above and run them as needed for your project's objectives.
+
+## Usage
+Provide instructions on how to use the MATLAB files and resources in this repository. Include any prerequisites, configuration steps, and examples of usage.
+
+## Acknowledgments
+Mention any contributors or organizations that have supported or influenced your project.
 
