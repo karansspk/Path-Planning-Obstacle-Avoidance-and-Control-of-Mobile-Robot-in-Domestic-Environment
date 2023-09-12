@@ -1,9 +1,4 @@
 # Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment
-/*
-<B> For Clarification visit below Report Link </B>  ----> [Report](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Mobile%20Robots%20Final%20Report.pdf) 
-
-![Dijkstra Path](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Dijkstra_Path.png)
-*/
 
 ![Project Image](images/project_image.png)
 
@@ -14,12 +9,12 @@ This repository contains MATLAB files and resources related to [Project Name]. T
 ## Table of Contents
 
 - [Project Files](#project-files)
-- [Result Images](#result-images)
-- [Project Report](#project-report)
+- [Result Images]([#result-images](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Dijkstra_Path.png))
+- [Project Report]([#project-report](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Mobile%20Robots%20Final%20Report.pdf))
 - [Referenced Research Papers](#referenced-research-papers)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Project Files
 
